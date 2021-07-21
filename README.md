@@ -1,4 +1,4 @@
-# React adventure store
+# React adventure store - https://sorrelljs.github.io/react-adventure-site/
 
 Simple react project, solely using state and props
 
@@ -9,6 +9,7 @@ Simple react project, solely using state and props
 - nodemon
 - Gh-pages to load
 - Javascript
+
 
 
 
